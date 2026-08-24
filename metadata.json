@@ -1,6 +1,6 @@
 {
   "name": "simp-dconf",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "author": "SIMP Team",
   "summary": "Provides an interface to system DConf configuration",
   "license": "Apache-2.0",
@@ -19,7 +19,7 @@
     },
     {
       "name": "puppetlabs/stdlib",
-      "version_requirement": ">= 8.0.0 < 10.0.0"
+      "version_requirement": ">= 8.0.0 < 11.0.0"
     }
   ],
   "operatingsystem_support": [
